@@ -12,6 +12,10 @@ CiviCRM and Drupal are installed in different databases as this is considered be
 
 Use this as starting point for your own setups.
 
+$ ansible-playbook site.yml
+
+Of course you might wanna do own configs within the files.
+
 Like it? -> Enjoy it ! -> Star. 
 
 Thanks.
